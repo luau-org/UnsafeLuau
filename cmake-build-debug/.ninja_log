@@ -1,0 +1,17 @@
+# ninja log v5
+1	309	6887409073743674	CMakeFiles/UnsafeLuau.dir/main.c.obj	93edc23570bb3279
+309	371	6887409074333663	UnsafeLuau.exe	45b2f16b6a2fcce2
+2	39	6887417774753342	CMakeFiles/UnsafeLuau.dir/Compiler/ullex.c.obj	575ce3bfa08abca1
+39	102	6887417775373493	UnsafeLuau.exe	cf3d776dfef87a77
+2	304	6887421367436244	CMakeFiles/UnsafeLuau.dir/main.c.obj	93edc23570bb3279
+305	367	6887421368046926	UnsafeLuau.exe	cf3d776dfef87a77
+2	298	6887422457536368	CMakeFiles/UnsafeLuau.dir/main.c.obj	93edc23570bb3279
+299	357	6887422458096243	UnsafeLuau.exe	cf3d776dfef87a77
+4	187	6888584000954260	CMakeFiles/UnsafeLuau.dir/Compiler/ullex.c.obj	575ce3bfa08abca1
+2	399	6888584003074294	CMakeFiles/UnsafeLuau.dir/main.c.obj	93edc23570bb3279
+399	530	6888584004353992	UnsafeLuau.exe	cf3d776dfef87a77
+3	58	6888584254197352	CMakeFiles/UnsafeLuau.dir/Compiler/ullex.c.obj	575ce3bfa08abca1
+2	306	6888584256688410	CMakeFiles/UnsafeLuau.dir/main.c.obj	93edc23570bb3279
+306	369	6888584257276371	UnsafeLuau.exe	cf3d776dfef87a77
+2	312	6888584736779895	CMakeFiles/UnsafeLuau.dir/main.c.obj	93edc23570bb3279
+312	376	6888584737391846	UnsafeLuau.exe	cf3d776dfef87a77
